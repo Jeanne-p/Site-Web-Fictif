@@ -1,0 +1,6 @@
+J'ai ajouté la biliothèque Bootstrap à l'aide du CDN dans mon site web.
+J'ai rajouté le lien de la bibliotèque dans le header de mes pages webs.
+J'ai mis les photos sous format Carte pour optimiser l'espace. J'ai optimisé 
+l'apparence de mon formulaire. J'ai changé la barre de navigation pour un 
+aspect visuel plus professionnel.
+J'ai supprimé quelque code CSS pour ajouter des class Bootsrap (ex: footer-left)
